@@ -1,4 +1,4 @@
-<img src="[_imagens/logo.jpg](https://github.com/alexrodrigoalvino/projetocadastro2023/blob/master/_imagens/fundo.jpg)" align="center" width="600">
+<img src="fundo.jpg" align="center" width="600">
 
 - 👋 Alex Rodrigo Alvino Pedroso
 - Empresa: Plansul - Planejamento e Consultoria Ltda.
@@ -14,7 +14,7 @@ Linguagem utilizadas:
 - CSS
 - JAVASCRIPT
 - PHP
-<img src="_imagens/logo.jpg" align="center" width="400">
+<img src="[_imagens/logo.jpg](https://github.com/alexrodrigoalvino/alexrodrigoalvino/blob/master/logo.jpg)" align="center" width="400">
 <!---
 alexrodrigoalvino/alexrodrigoalvino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
