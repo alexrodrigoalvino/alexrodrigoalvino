@@ -1,4 +1,4 @@
-<img src="!https://github.com/alexrodrigoalvino/alexrodrigoalvino/assets/144698789/52885d8f-9c0e-445b-9729-689be3d11784" align="center" width="600">
+<img src="[!https://github.com/alexrodrigoalvino/alexrodrigoalvino/assets/144698789/52885d8f-9c0e-445b-9729-689be3d11784](https://github.com/alexrodrigoalvino/alexrodrigoalvino/blob/cec92892455f8cacb1d54912dc2119ae211e0fe9/fundo.jpg)" align="center" width="600">
 
 
 - 👋 Alex Rodrigo Alvino Pedroso
