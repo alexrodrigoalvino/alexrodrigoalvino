@@ -1,4 +1,4 @@
-<img src="_imagens/logo.jpg" align="center" width="400">
+<img src="[_imagens/logo.jpg](https://github.com/alexrodrigoalvino/projetocadastro2023/blob/master/_imagens/fundo.jpg)" align="center" width="600">
 
 - 👋 Alex Rodrigo Alvino Pedroso
 - Empresa: Plansul - Planejamento e Consultoria Ltda.
