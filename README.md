@@ -1,4 +1,5 @@
-<img src="fundo.jpg" align="center" width="600">
+<img src="fundo.jpg" align="center" width="600">![fundo](https://github.com/alexrodrigoalvino/alexrodrigoalvino/assets/144698789/52885d8f-9c0e-445b-9729-689be3d11784)
+
 
 - 👋 Alex Rodrigo Alvino Pedroso
 - Empresa: Plansul - Planejamento e Consultoria Ltda.
