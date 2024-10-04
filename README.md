@@ -3,8 +3,8 @@
 <br>
 
 - 👋 **Alex Rodrigo Alvino Pedroso**
-- Empresa: Plansul - Planejamento e Consultoria Ltda.
-- Setor: PROGRAD-DRCA/COPS UFLA
+- Empresa: 
+- Setor: 
 - Função: TI 
 - 👀 Estudante do Instituto Federal do Sul de Minas
 - 🌱 Polo Três Corações / UFLA
